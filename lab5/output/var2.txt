@@ -1,0 +1,21 @@
+Task 1 - concat heads 
+============================
+Input: ((G55 G66 G777) (9 (F G) I) (N I L T D J (II JJ)))
+Output: (G55 9 N)
+
+Task 2 - concat nth (3 2 6)
+============================
+Input: ((G55 G66 G777) (9 (F G) I) (N I L T D J (II JJ)))
+Output: (G777 (F G) J)
+
+Task 3 - custom function
+============================
+Input: (50)
+Output: 7.0710678118654755
+
+Input: ((50 20 10))
+Output: 10
+
+Input: (STR)
+Output: STR
+

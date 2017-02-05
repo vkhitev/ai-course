@@ -1,0 +1,12 @@
+Task 1 - concat heads 
+============================
+Input: ((REM FFG HHJ (H) J G D) (2 34 56 78 (7 8)) (UN Y LOOP))
+Output: (REM 2 UN)
+
+Task 2 - concat nth (4 4 2)
+============================
+Input: ((REM FFG HHJ (H) J G D) (2 34 56 78 (7 8)) (UN Y LOOP))
+Output: ((H) 78 Y)
+
+Task 3 - custom function
+============================

@@ -1,0 +1,12 @@
+Task 1 - concat heads 
+============================
+Input: ((T Y D E F (NL KM LM) JL) (+ 2 3) (* (+ 6 8) (- 70 8)))
+Output: (T + *)
+
+Task 2 - concat nth (6 2 2)
+============================
+Input: ((T Y D E F (NL KM LM) JL) (+ 2 3) (* (+ 6 8) (- 70 8)))
+Output: ((NL KM LM) 2 (+ 6 8))
+
+Task 3 - custom function
+============================

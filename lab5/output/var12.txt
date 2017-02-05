@@ -1,0 +1,12 @@
+Task 1 - concat heads 
+============================
+Input: ((H G (U J) (T R)) (2 1 (+ 4 5)) (TYPE CHAR REAL (H G)))
+Output: (H 2 TYPE)
+
+Task 2 - concat nth (3 3 3)
+============================
+Input: ((H G (U J) (T R)) (2 1 (+ 4 5)) (TYPE CHAR REAL (H G)))
+Output: ((U J) (+ 4 5) REAL)
+
+Task 3 - custom function
+============================

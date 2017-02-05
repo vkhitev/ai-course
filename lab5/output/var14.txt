@@ -1,0 +1,12 @@
+Task 1 - concat heads 
+============================
+Input: ((T (HJ (JH KL)) K) (67 54 (8 9 0) (4 6)) (K F G H))
+Output: (T 67 K)
+
+Task 2 - concat nth (2 3 3)
+============================
+Input: ((T (HJ (JH KL)) K) (67 54 (8 9 0) (4 6)) (K F G H))
+Output: ((HJ (JH KL)) (8 9 0) G)
+
+Task 3 - custom function
+============================

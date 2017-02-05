@@ -1,0 +1,12 @@
+Task 1 - concat heads 
+============================
+Input: ((3 (3 4 5 Y U) (T Y)) (G H (6 7 8) 8 9 0 7 6) ((5 T 7 Y H) U))
+Output: (3 G (5 T 7 Y H))
+
+Task 2 - concat nth (2 3 2)
+============================
+Input: ((3 (3 4 5 Y U) (T Y)) (G H (6 7 8) 8 9 0 7 6) ((5 T 7 Y H) U))
+Output: ((3 4 5 Y U) (6 7 8) U)
+
+Task 3 - custom function
+============================

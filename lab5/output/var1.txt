@@ -1,0 +1,21 @@
+Task 1 - concat heads 
+============================
+Input: ((Y U I) (G1 G2 G3) (KK LL MM JJJ))
+Output: (Y G1 KK)
+
+Task 2 - concat nth (2 2 3)
+============================
+Input: ((Y U I) (G1 G2 G3) (KK LL MM JJJ))
+Output: (U G2 MM)
+
+Task 3 - custom function
+============================
+Input: ((1 2 3) (4 5 6))
+Output: (4 5 6)
+
+Input: ((-1 2 3) (4 5 6))
+Output: (4 2 3)
+
+Input: (NIL (4 5 6))
+Output: (4)
+

@@ -1,0 +1,12 @@
+Task 1 - concat heads 
+============================
+Input: ((RM F G H J (J G D)) (2 3 4 5 6 (7 8)) (U N Y L O O P))
+Output: (RM 2 U)
+
+Task 2 - concat nth (4 6 2)
+============================
+Input: ((RM F G H J (J G D)) (2 3 4 5 6 (7 8)) (U N Y L O O P))
+Output: (H (7 8) N)
+
+Task 3 - custom function
+============================

@@ -1,0 +1,14 @@
+Task 1 - concat heads 
+============================
+Input: ((GOAL FUNCTOR CLAUSE (DATA BASE)) (2 5 (5 4 6) 8)
+        (L (K (K I) U)))
+Output: (GOAL 2 L)
+
+Task 2 - concat nth (4 3 2)
+============================
+Input: ((GOAL FUNCTOR CLAUSE (DATA BASE)) (2 5 (5 4 6) 8)
+        (L (K (K I) U)))
+Output: ((DATA BASE) (5 4 6) (K (K I) U))
+
+Task 3 - custom function
+============================

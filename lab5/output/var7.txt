@@ -1,0 +1,12 @@
+Task 1 - concat heads 
+============================
+Input: ((TYPE PRINT DEL) (H (H J O) (UJ N)) (READ SAVE LOAD TXT))
+Output: (TYPE H READ)
+
+Task 2 - concat nth (3 2 3)
+============================
+Input: ((TYPE PRINT DEL) (H (H J O) (UJ N)) (READ SAVE LOAD TXT))
+Output: (DEL (H J O) LOAD)
+
+Task 3 - custom function
+============================

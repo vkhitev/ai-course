@@ -1,0 +1,12 @@
+Task 1 - concat heads 
+============================
+Input: ((T HJ JH K) (6 7 5 4 (8 9 0) (4 6)) (K 2 T F G H))
+Output: (T 6 K)
+
+Task 2 - concat nth (2 6 3)
+============================
+Input: ((T HJ JH K) (6 7 5 4 (8 9 0) (4 6)) (K 2 T F G H))
+Output: (HJ (4 6) T)
+
+Task 3 - custom function
+============================

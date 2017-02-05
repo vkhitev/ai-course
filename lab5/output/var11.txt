@@ -1,0 +1,12 @@
+Task 1 - concat heads 
+============================
+Input: ((PRIM SD FLAG NIL (GHG)) (1 56 98 52) (T 2 3 4 Y H))
+Output: (PRIM 1 T)
+
+Task 2 - concat nth (5 3 2)
+============================
+Input: ((PRIM SD FLAG NIL (GHG)) (1 56 98 52) (T 2 3 4 Y H))
+Output: ((GHG) 98 2)
+
+Task 3 - custom function
+============================

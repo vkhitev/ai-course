@@ -1,0 +1,12 @@
+Task 1 - concat heads 
+============================
+Input: ((V B N J H) ((Y U I) (H J K) (8) 78) (DF FG HJ K L (O 0 9)))
+Output: (V (Y U I) DF)
+
+Task 2 - concat nth (3 4 6)
+============================
+Input: ((V B N J H) ((Y U I) (H J K) (8) 78) (DF FG HJ K L (O 0 9)))
+Output: (N 78 (O 0 9))
+
+Task 3 - custom function
+============================

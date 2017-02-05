@@ -1,0 +1,12 @@
+Task 1 - concat heads 
+============================
+Input: ((DOG (CAT) FOX NIL) (RET GET PUT OUT IN) (MOV ADD (MUL DEV)))
+Output: (DOG RET MOV)
+
+Task 2 - concat nth (3 4 3)
+============================
+Input: ((DOG (CAT) FOX NIL) (RET GET PUT OUT IN) (MOV ADD (MUL DEV)))
+Output: (FOX OUT (MUL DEV))
+
+Task 3 - custom function
+============================

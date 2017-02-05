@@ -1,0 +1,21 @@
+Task 1 - concat heads 
+============================
+Input: ((9 (NIL 8 88 888)) (H (J K L) (UJN)) (C B (N M I) (T Y U)))
+Output: (9 H C)
+
+Task 2 - concat nth (2 3 3)
+============================
+Input: ((9 (NIL 8 88 888)) (H (J K L) (UJN)) (C B (N M I) (T Y U)))
+Output: ((NIL 8 88 888) (UJN) (N M I))
+
+Task 3 - custom function
+============================
+Input: ((1 2) (-4 -5))
+Output: 8.6023252670426267
+
+Input: ((1 2 3) (-4 -5 -6))
+Output: 12.449899597988733
+
+Input: ((1 2 3 -10) (-4 -5 -6 12))
+Output: 25.278449319529077
+

@@ -1,0 +1,12 @@
+Task 1 - concat heads 
+============================
+Input: (((PI) V (H J K)) (R YU (H KJ KL)) (U II OO LL PP (3 4 5)))
+Output: ((PI) R U)
+
+Task 2 - concat nth (1 3 6)
+============================
+Input: (((PI) V (H J K)) (R YU (H KJ KL)) (U II OO LL PP (3 4 5)))
+Output: ((PI) (H KJ KL) (3 4 5))
+
+Task 3 - custom function
+============================

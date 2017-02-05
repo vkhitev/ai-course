@@ -1,0 +1,12 @@
+Task 1 - concat heads 
+============================
+Input: ((H G (2 3) 8 7 (T R)) (2 1 (+ 4 5)) (TY PE CH AR RE AL (H G)))
+Output: (H 2 TY)
+
+Task 2 - concat nth (3 3 3)
+============================
+Input: ((H G (2 3) 8 7 (T R)) (2 1 (+ 4 5)) (TY PE CH AR RE AL (H G)))
+Output: ((2 3) (+ 4 5) CH)
+
+Task 3 - custom function
+============================
